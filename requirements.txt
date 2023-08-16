@@ -1,0 +1,6 @@
+pip install torch
+pip install transfromers
+pip install faiss-cpu
+pip install psycopg2
+pip install flask
+git clone https://github.com/facebookresearch/faiss.git
